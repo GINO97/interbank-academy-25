@@ -41,8 +41,8 @@ Desarrolla una aplicación de línea de comandos (CLI) que procese un archivo CS
    Reporte de Transacciones
    ---------------------------------------------
    Balance Final: 325.00
-   Transacción de Mayor Monto: ID 3 - 200.00
-   Conteo de Transacciones: Crédito: 3 Débito: 2
+   Transacción de Mayor Monto: ID 222 - 499.69
+   Conteo de Transacciones: Crédito: 508 Débito: 492
    ```
 
 4. **Lenguaje de Programación:**  
